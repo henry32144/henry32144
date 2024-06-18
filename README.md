@@ -1,8 +1,8 @@
-## Hi, I'm ChengHan Wu 👋
+# Hi, I'm ChengHan Wu 👋
 
+#### A developer interested in AI, Web, Game
 
-
-### Statistics
+### 📊 Statistics
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=henry32144&theme=holi" />
